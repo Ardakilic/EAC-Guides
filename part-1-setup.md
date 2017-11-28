@@ -181,4 +181,4 @@ Type in a name for your configuration profile and then click OK.
 
 ## Ripping
 
-Now you're ready to rip CDs with EAC! Check out Part 2 of my guide to learn how.
+Now you're ready to rip CDs with EAC! Check out [Part 2](part-2-ripping.md) of my guide to learn how.
