@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-1. You've set up EAC using Part 1 of my guide.
+1. You've set up EAC using [Part 1](part-1-setup.md) of my guide.
 2. You have a music CD you want to rip. An original copy, not a burned one on a CD-R or CD-RW.
 
 > **Tip:** Click on any image in this guide to view it at full resolution.
